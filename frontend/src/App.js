@@ -1,5 +1,4 @@
 import "./App.css";
-
 //importing nessessary components and functions from the react-router-dom library for routing.
 import { 
   createBrowserRouter, 
